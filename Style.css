@@ -1,0 +1,174 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.main-container{
+    border: 5px solid red;
+    border-radius: 15px;
+    height: 510px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    margin-bottom: 19px;
+    padding-bottom: 7px;
+  }
+    
+
+input{
+    border:4px solid blue;
+    border-radius: 9px;
+    margin: 10px;
+    padding: 20px;
+    margin-bottom: 19px;
+    position: relative;
+    right: -40px;
+
+}
+.first-row{
+    border: 2px solid rgba(130, 204, 238, 0.873);
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.second-row{
+    border: 2px solid violet;
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.third-row{
+    border: 2px solid rgba(247, 247, 241, 0.804);
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.last-row{
+    border: 2px solid rgba(130, 238, 197, 0.311);
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+/* For First Row*/ 
+#one{
+        border: 2px solid blue;
+        border-radius: 9px;
+        margin: -2px;
+        padding: 9px;
+}
+#two{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#three{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#del{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#ac{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+/* For Second Row*/ 
+
+#four{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#five{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#six{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#divide{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#multiply{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+/* For Third Row*/ 
+#seven{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#eight{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#nine{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#plus{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+#minus{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 9px;
+}
+
+/* For Last Row*/
+
+#equals{
+    border: 2px solid blue;
+    border-radius: 9px;
+    margin: -2px;
+    padding: 17px;
+    width: 993px;
+}
+h6{
+    text-align: center;
+   margin: 8px;
+   font-size: medium;
+}
